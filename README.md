@@ -140,6 +140,7 @@ In this step, we will learn how an LLM works from the inside, how it generates t
 - [What is Byte Pair Encoding (BPE) in LLMs?](https://outcomeschool.com/blog/bpe-in-llms)
 - [What are Embeddings?](https://outcomeschool.com/blog/what-are-embeddings)
 - [Embeddings in Machine Learning](https://www.youtube.com/watch?v=LedXW6xl21s) (Video)
+- [How does Cosine Similarity work?](https://outcomeschool.com/blog/cosine-similarity)
 - [How Does the Transformer Architecture Work?](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - [What is Self Attention in Transformers?](https://outcomeschool.com/blog/self-attention-in-transformers)
 - [Evolution of LLM Architecture](https://outcomeschool.com/blog/evolution-of-llm-architecture)
