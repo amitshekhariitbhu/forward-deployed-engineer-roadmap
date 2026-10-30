@@ -149,6 +149,7 @@ In this step, we will learn how an LLM works from the inside, how it generates t
 - [How does Temperature control LLM output?](https://outcomeschool.com/blog/how-does-temperature-control-llm-output)
 - [How do Top-k and Top-p Sampling work?](https://outcomeschool.com/blog/how-do-top-k-and-top-p-sampling-work)
 - [Stop Tokens in LLMs](https://outcomeschool.com/blog/stop-tokens-in-llms)
+- [What are Log Probabilities (Logprobs) in LLMs?](https://outcomeschool.com/blog/logprobs-in-llms)
 - [How does Token Streaming work?](https://outcomeschool.com/blog/how-does-token-streaming-work)
 - [How does the Context Window work?](https://outcomeschool.com/blog/context-window)
 - [Why is the context window limited in LLMs?](https://www.youtube.com/watch?v=CGIhxIaOg3M) (Video)
