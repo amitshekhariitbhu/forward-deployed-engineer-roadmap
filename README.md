@@ -121,6 +121,7 @@ In this step, we will learn the Machine Learning basics that every FDE must know
 - [How does the Bias-Variance Tradeoff work?](https://outcomeschool.com/blog/bias-variance-tradeoff)
 - [What are Epoch, Batch, Batch Size, and Iteration in Machine Learning?](https://outcomeschool.com/blog/epoch-batch-and-iteration)
 - [Epoch, Batch, Batch Size, Iteration](https://www.youtube.com/watch?v=NFLlXE-6vno) (Video)
+- [How does a confusion matrix work?](https://outcomeschool.com/blog/confusion-matrix)
 - [Precision vs Recall](https://outcomeschool.com/blog/precision-vs-recall)
 - [What is a Neural Network and How Does It Work?](https://outcomeschool.com/blog/neural-network)
 - [What are Activation Functions in Neural Networks? Sigmoid, Tanh, ReLU, and Softmax Explained](https://outcomeschool.com/blog/activation-functions)
