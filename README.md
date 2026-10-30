@@ -235,6 +235,7 @@ In this step, we will learn how an LLM goes from answering questions to actually
 - [What is AI Orchestration?](https://outcomeschool.com/blog/ai-orchestration)
 - [How do Computer-Use Agents work?](https://outcomeschool.com/blog/how-do-computer-use-agents-work)
 - [How do Browser Agents work?](https://outcomeschool.com/blog/how-do-browser-agents-work)
+- [How does a deep research agent work?](https://outcomeschool.com/blog/deep-research-agent)
 
 ### Step 7: Agentic Engineering and Building Fast with Coding Agents
 
