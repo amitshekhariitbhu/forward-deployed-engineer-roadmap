@@ -287,6 +287,7 @@ In this step, we will learn how to make LLMs faster and cheaper to run. A demo t
 In this step, we will learn what to do when prompting and RAG are not enough: when the customer needs a specific style, format, or domain behavior, or wants a smaller and cheaper model that matches a bigger one. An FDE must know when fine-tuning is the right call and when it is not.
 
 - [How does Fine-Tuning work?](https://outcomeschool.com/blog/how-does-fine-tuning-work)
+- [How does Instruction Tuning work?](https://outcomeschool.com/blog/instruction-tuning)
 - [What is LoRA (Low-Rank Adaptation)?](https://outcomeschool.com/blog/lora-low-rank-adaptation-of-llms)
 - [How does Prefix Tuning work?](https://outcomeschool.com/blog/how-does-prefix-tuning-work)
 - [How does Knowledge Distillation work?](https://outcomeschool.com/blog/how-does-knowledge-distillation-work)
