@@ -12,21 +12,20 @@
 - [The FDE Engagement Lifecycle](#the-fde-engagement-lifecycle)
 - [How to Use This Roadmap](#how-to-use-this-roadmap)
 - [Step 0: Must Know](#step-0-must-know)
-- [Step 1: The FDE Mindset](#step-1-the-fde-mindset)
-- [Step 2: AI and Machine Learning Essentials](#step-2-ai-and-machine-learning-essentials)
-- [Step 3: How LLMs Work](#step-3-how-llms-work)
-- [Step 4: Choosing the Right Model for the Customer](#step-4-choosing-the-right-model-for-the-customer)
-- [Step 5: Prompt Engineering and Context Engineering](#step-5-prompt-engineering-and-context-engineering)
-- [Step 6: RAG on Customer Data](#step-6-rag-on-customer-data)
-- [Step 7: AI Agents and Tool Integration](#step-7-ai-agents-and-tool-integration)
-- [Step 8: Agentic Engineering and Building Fast with Coding Agents](#step-8-agentic-engineering-and-building-fast-with-coding-agents)
-- [Step 9: Evaluation and Observability: Proving Value to the Customer](#step-9-evaluation-and-observability-proving-value-to-the-customer)
-- [Step 10: AI Safety, Security, and Trust](#step-10-ai-safety-security-and-trust)
-- [Step 11: Latency and Cost in Production](#step-11-latency-and-cost-in-production)
-- [Step 12: Fine-Tuning and Customizing Models](#step-12-fine-tuning-and-customizing-models)
-- [Step 13: AI System Design and Infrastructure](#step-13-ai-system-design-and-infrastructure)
-- [Step 14: Customer Use Case: Real-Time Voice AI Agent](#step-14-customer-use-case-real-time-voice-ai-agent)
-- [Step 15: Prepare for Forward Deployed Engineer Interviews](#step-15-prepare-for-forward-deployed-engineer-interviews)
+- [Step 1: AI and Machine Learning Essentials](#step-1-ai-and-machine-learning-essentials)
+- [Step 2: How LLMs Work](#step-2-how-llms-work)
+- [Step 3: Choosing the Right Model for the Customer](#step-3-choosing-the-right-model-for-the-customer)
+- [Step 4: Prompt Engineering and Context Engineering](#step-4-prompt-engineering-and-context-engineering)
+- [Step 5: RAG on Customer Data](#step-5-rag-on-customer-data)
+- [Step 6: AI Agents and Tool Integration](#step-6-ai-agents-and-tool-integration)
+- [Step 7: Agentic Engineering and Building Fast with Coding Agents](#step-7-agentic-engineering-and-building-fast-with-coding-agents)
+- [Step 8: Evaluation and Observability: Proving Value to the Customer](#step-8-evaluation-and-observability-proving-value-to-the-customer)
+- [Step 9: AI Safety, Security, and Trust](#step-9-ai-safety-security-and-trust)
+- [Step 10: Latency and Cost in Production](#step-10-latency-and-cost-in-production)
+- [Step 11: Fine-Tuning and Customizing Models](#step-11-fine-tuning-and-customizing-models)
+- [Step 12: AI System Design and Infrastructure](#step-12-ai-system-design-and-infrastructure)
+- [Step 13: Customer Use Case: Real-Time Voice AI Agent](#step-13-customer-use-case-real-time-voice-ai-agent)
+- [Step 14: Prepare for Forward Deployed Engineer Interviews](#step-14-prepare-for-forward-deployed-engineer-interviews)
 
 ### Prepared and maintained by the **Founder** of [Outcome School](https://outcomeschool.com): Amit Shekhar
 
@@ -73,13 +72,13 @@ Almost every FDE engagement follows the same path. This roadmap is ordered to ma
 
 | Phase | What the FDE does | Steps in this roadmap |
 | --- | --- | --- |
-| Discover | Understand the customer problem, define what success looks like | Step 0, Step 1 |
-| Learn the toolbox | Know what AI can and cannot do, and why | Step 2, Step 3, Step 4 |
-| Prototype | Build a working demo on the customer's data in days, not months | Step 5, Step 6, Step 7, Step 8 |
-| Prove value | Measure quality with evals, show the numbers | Step 9 |
-| Harden | Make it safe, secure, fast, and affordable | Step 10, Step 11, Step 12 |
-| Deploy | Design the full system and choose where it runs | Step 13 |
-| Ship a real use case | See every idea come together in one production system | Step 14 |
+| Discover | Understand the customer problem, define what success looks like | Step 0 |
+| Learn the toolbox | Know what AI can and cannot do, and why | Step 1, Step 2, Step 3 |
+| Prototype | Build a working demo on the customer's data in days, not months | Step 4, Step 5, Step 6, Step 7 |
+| Prove value | Measure quality with evals, show the numbers | Step 8 |
+| Harden | Make it safe, secure, fast, and affordable | Step 9, Step 10, Step 11 |
+| Deploy | Design the full system and choose where it runs | Step 12 |
+| Ship a real use case | See every idea come together in one production system | Step 13 |
 
 ### How to Use This Roadmap
 
@@ -88,7 +87,6 @@ This roadmap is designed so that anyone can follow it in the given order, even w
 - Follow the steps in order. Each step builds on top of the previous one.
 - Inside each step, read the blogs in the given order. Every blog explains one concept in simple words with examples.
 - Wherever we have a video for the same topic, it is listed right below the blog. Read the blog, then watch the video, or the other way around.
-- Do not skip Step 1. Knowing what to build matters more than knowing how to build it.
 - After every step, ask yourself: "If a customer asked me about this tomorrow, could I explain it and make a decision?" If yes, move on.
 - Every blog is free to read and is written for beginners. No jargon. No assumptions.
 
@@ -109,14 +107,7 @@ Learn about all six in one video: [AI Engineering Explained: LLM, RAG, MCP, Agen
 
 As an FDE, these six words will come up in our very first customer meeting. Customers will ask: "Should we use RAG or fine-tuning?", "Can an agent do this for us?", "Can we run the model on our own servers?". Now, we know the big picture. In the next steps, we will learn each of these in depth, one concept at a time, so that we can answer these questions with confidence.
 
-### Step 1: The FDE Mindset
-
-In this step, we will learn the most important skill of an FDE: turning a vague customer request into a clear goal, and understanding where software engineering is heading so that we build the right thing.
-
-- [AI Is Only as Good as Our Definition of Done](https://outcomeschool.com/blog/ai-is-only-as-good-as-our-definition-of-done)
-- [The Future of Software Development](https://outcomeschool.com/blog/the-future-of-software-development)
-
-### Step 2: AI and Machine Learning Essentials
+### Step 1: AI and Machine Learning Essentials
 
 In this step, we will learn the Machine Learning basics that every FDE must know to talk to data teams, understand customer data, and measure whether a model is good or bad. We will keep it practical and focused.
 
@@ -136,7 +127,7 @@ In this step, we will learn the Machine Learning basics that every FDE must know
 - [How Does Gradient Descent Work?](https://outcomeschool.com/blog/math-behind-gradient-descent)
 - [What is Reinforcement Learning?](https://outcomeschool.com/blog/reinforcement-learning)
 
-### Step 3: How LLMs Work
+### Step 2: How LLMs Work
 
 In this step, we will learn how an LLM works from the inside, how it generates text, and where it fails. An FDE must be able to explain to a customer why the model hallucinated, why it forgot something in a long document, and why responses take time.
 
@@ -159,7 +150,7 @@ In this step, we will learn how an LLM works from the inside, how it generates t
 - [What is the Lost in the Middle Problem in LLMs?](https://outcomeschool.com/blog/lost-in-the-middle-problem-in-llms)
 - [Why Do LLMs Hallucinate? The Token-Level Explanation](https://outcomeschool.com/blog/why-do-llms-hallucinate-the-token-level-explanation)
 
-### Step 4: Choosing the Right Model for the Customer
+### Step 3: Choosing the Right Model for the Customer
 
 In this step, we will learn that there is no single best model. The right choice depends on the customer's task, budget, latency needs, and where their data is allowed to go. We will learn the types of models and how to pick between them.
 
@@ -170,7 +161,7 @@ In this step, we will learn that there is no single best model. The right choice
 - [How does a Vision-Language Model (VLM) work?](https://outcomeschool.com/blog/vision-language-model-vlm)
 - [What is LLM Routing? How to Send Each Query to the Right LLM](https://outcomeschool.com/blog/llm-routing)
 
-### Step 5: Prompt Engineering and Context Engineering
+### Step 4: Prompt Engineering and Context Engineering
 
 In this step, we will learn the fastest and cheapest way to improve results for a customer: giving the model better instructions and better context. In most FDE engagements, this is where the first big win comes from.
 
@@ -181,7 +172,7 @@ In this step, we will learn the fastest and cheapest way to improve results for 
 - [How does Context Compaction work?](https://outcomeschool.com/blog/how-does-context-compaction-work)
 - [How does Prompt Caching work?](https://outcomeschool.com/blog/how-does-prompt-caching-work)
 
-### Step 6: RAG on Customer Data
+### Step 5: RAG on Customer Data
 
 In this step, we will learn how to make an LLM answer questions from the customer's own documents, tickets, wikis, and databases. RAG is the most common thing an FDE builds, so we will go from the basics of vector search all the way to advanced retrieval.
 
@@ -205,7 +196,7 @@ If you want a quick introduction to RAG before starting, watch: [AI Engineering 
 - [What is GraphRAG? How Knowledge Graphs Improve RAG](https://outcomeschool.com/blog/graphrag)
 - [What is Vectorless RAG? RAG Without Embeddings or a Vector Database](https://outcomeschool.com/blog/vectorless-rag)
 
-### Step 7: AI Agents and Tool Integration
+### Step 6: AI Agents and Tool Integration
 
 In this step, we will learn how an LLM goes from answering questions to actually doing work inside the customer's systems: calling their APIs, reading their tools, and completing multi-step tasks. We will start with a single agent and move to systems where many agents work together.
 
@@ -227,7 +218,7 @@ In this step, we will learn how an LLM goes from answering questions to actually
 - [How do Computer-Use Agents work?](https://outcomeschool.com/blog/how-do-computer-use-agents-work)
 - [How do Browser Agents work?](https://outcomeschool.com/blog/how-do-browser-agents-work)
 
-### Step 8: Agentic Engineering and Building Fast with Coding Agents
+### Step 7: Agentic Engineering and Building Fast with Coding Agents
 
 In this step, we will learn the engineering practices for building reliable agents, the frameworks we will meet at customer sites, and how coding agents work. FDEs are expected to ship a working prototype in days, and coding agents are a big part of how that happens.
 
@@ -239,7 +230,7 @@ In this step, we will learn the engineering practices for building reliable agen
 - [How does Claude Code work?](https://outcomeschool.com/blog/how-does-claude-code-work)
 - [How does Cursor work?](https://outcomeschool.com/blog/how-does-cursor-work)
 
-### Step 9: Evaluation and Observability: Proving Value to the Customer
+### Step 8: Evaluation and Observability: Proving Value to the Customer
 
 In this step, we will learn how to measure whether our system is actually doing a good job, and how to see what it is doing in production. For an FDE, evals are not optional. They are how we prove value, catch regressions, and get the customer to sign off on going live.
 
@@ -248,7 +239,7 @@ In this step, we will learn how to measure whether our system is actually doing 
 - [How to Evaluate AI Agents? Metrics, Methods, and Best Practices](https://outcomeschool.com/blog/ai-agent-evaluation)
 - [What is AI Agent Observability? Traces, Spans, and Metrics Explained](https://outcomeschool.com/blog/ai-agent-observability)
 
-### Step 10: AI Safety, Security, and Trust
+### Step 9: AI Safety, Security, and Trust
 
 In this step, we will learn how to keep an AI system safe inside a customer's environment. Enterprise customers care deeply about this: what the model is allowed to say, what it is allowed to do, and how attackers might try to break it.
 
@@ -256,7 +247,7 @@ In this step, we will learn how to keep an AI system safe inside a customer's en
 - [What is Prompt Injection in LLMs and How Do We Defend Against It?](https://outcomeschool.com/blog/prompt-injection-in-llms)
 - [How does LLM Watermarking work?](https://outcomeschool.com/blog/how-does-llm-watermarking-work)
 
-### Step 11: Latency and Cost in Production
+### Step 10: Latency and Cost in Production
 
 In this step, we will learn how to make LLMs faster and cheaper to run. A demo that takes 10 seconds per answer or costs too much per user will never reach production. We will learn what happens during inference, the techniques that speed it up, and the serving engines a customer may run on their own servers.
 
@@ -277,7 +268,7 @@ In this step, we will learn how to make LLMs faster and cheaper to run. A demo t
 - [How does SGLang work?](https://outcomeschool.com/blog/how-does-sglang-work)
 - [How does TensorRT-LLM work?](https://outcomeschool.com/blog/how-does-tensorrt-llm-work)
 
-### Step 12: Fine-Tuning and Customizing Models
+### Step 11: Fine-Tuning and Customizing Models
 
 In this step, we will learn what to do when prompting and RAG are not enough: when the customer needs a specific style, format, or domain behavior, or wants a smaller and cheaper model that matches a bigger one. An FDE must know when fine-tuning is the right call and when it is not.
 
@@ -289,7 +280,7 @@ In this step, we will learn what to do when prompting and RAG are not enough: wh
 - [What is RLHF? Reinforcement Learning from Human Feedback Explained](https://outcomeschool.com/blog/reinforcement-learning-from-human-feedback-rlhf)
 - [What is Direct Preference Optimization (DPO)?](https://outcomeschool.com/blog/direct-preference-optimization-dpo)
 
-### Step 13: AI System Design and Infrastructure
+### Step 12: AI System Design and Infrastructure
 
 In this step, we will learn how to design a complete AI system end to end and where to run it. An FDE must be able to sit with the customer's architects, draw the full system on a whiteboard, and advise on where it should run: in the cloud, on their own GPUs, or on the device.
 
@@ -301,7 +292,7 @@ Learn AI System Design step by step: [AI System Design](https://github.com/amits
 - [How does an LPU work?](https://outcomeschool.com/blog/how-does-an-lpu-work)
 - [Cloud vs On-device Model Deployment](https://outcomeschool.com/blog/cloud-vs-on-device-model-deployment)
 
-### Step 14: Customer Use Case: Real-Time Voice AI Agent
+### Step 13: Customer Use Case: Real-Time Voice AI Agent
 
 In this step, we will see everything come together in one of the most requested customer deployments: a real-time voice AI agent for customer support, sales, or scheduling. It touches models, agents, tools, latency, streaming, and system design all at once, which makes it the perfect end-to-end FDE project.
 
@@ -322,15 +313,15 @@ In this step, we will see everything come together in one of the most requested 
 - [How do filler phrases hide latency in a voice agent?](https://outcomeschool.com/blog/filler-phrases-in-voice-agents)
 - [How does a voice agent hide the delay of a slow tool call?](https://outcomeschool.com/blog/slow-tool-calls-in-voice-agents)
 
-### Step 15: Prepare for Forward Deployed Engineer Interviews
+### Step 14: Prepare for Forward Deployed Engineer Interviews
 
 Now that we have learned everything from AI foundations to shipping a production system at a customer site, it's time to prepare for the interviews.
 
 FDE interviews usually test three things:
 
 - **Coding:** practical, real-world coding, often building or debugging a small feature end to end.
-- **AI system design:** designing a RAG system, an agent, or a voice agent for a given customer problem, with trade-offs on quality, latency, cost, and security. Steps 6 to 14 and the [AI System Design](https://github.com/amitshekhariitbhu/ai-system-design) guide prepare us for this.
-- **Customer scenarios:** a vague business problem is given, and we must ask the right questions, define success, pick an approach, and explain it simply. Step 1 and Step 9 prepare us for this.
+- **AI system design:** designing a RAG system, an agent, or a voice agent for a given customer problem, with trade-offs on quality, latency, cost, and security. Steps 5 to 13 and the [AI System Design](https://github.com/amitshekhariitbhu/ai-system-design) guide prepare us for this.
+- **Customer scenarios:** a vague business problem is given, and we must ask the right questions, define success, pick an approach, and explain it simply. Step 0 and Step 8 prepare us for this.
 
 Join the [AI and Machine Learning](https://outcomeschool.com/program/ai-and-machine-learning) program at Outcome School to learn all of these.
 
