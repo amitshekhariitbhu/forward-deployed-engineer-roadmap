@@ -345,6 +345,7 @@ In this step, we will see everything come together in one of the most requested 
 - [How does DTMF keypad input work in a voice agent?](https://outcomeschool.com/blog/dtmf-in-voice-agents)
 - [How does voicemail and answering machine detection work?](https://outcomeschool.com/blog/answering-machine-detection)
 - [How does an outbound calling voice agent work?](https://outcomeschool.com/blog/outbound-calling-voice-agent)
+- [How does a voice agent transfer a call to a human with context?](https://outcomeschool.com/blog/call-transfer-with-context)
 
 ### Step 14: Prepare for Forward Deployed Engineer Interviews
 
