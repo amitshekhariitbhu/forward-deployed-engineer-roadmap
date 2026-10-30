@@ -219,6 +219,7 @@ In this step, we will learn how an LLM goes from answering questions to actually
 
 - [What is an AI Agent? How It Works](https://outcomeschool.com/blog/ai-agent)
 - [How does Function Calling work in LLMs?](https://outcomeschool.com/blog/how-does-function-calling-work-in-llms)
+- [How does Constrained Decoding work?](https://outcomeschool.com/blog/constrained-decoding)
 - [What is an AI Agent Loop?](https://outcomeschool.com/blog/ai-agent-loop)
 - [What is a ReAct Agent?](https://outcomeschool.com/blog/react-agent)
 - [What is a Plan-and-Execute Agent?](https://outcomeschool.com/blog/plan-and-execute-agent)
