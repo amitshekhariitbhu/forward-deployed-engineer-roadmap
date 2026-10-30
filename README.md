@@ -185,6 +185,7 @@ In this step, we will learn how to make an LLM answer questions from the custome
 
 If you want a quick introduction to RAG before starting, watch: [AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk)
 
+- [How does RAG work?](https://outcomeschool.com/blog/retrieval-augmented-generation-rag)
 - [How does a Vector Database work?](https://outcomeschool.com/blog/how-does-a-vector-database-work)
 - [How does Approximate Nearest Neighbor (ANN) Search work?](https://outcomeschool.com/blog/how-does-approximate-nearest-neighbor-ann-search-work)
 - [How does Semantic Search work?](https://outcomeschool.com/blog/how-does-semantic-search-work)
