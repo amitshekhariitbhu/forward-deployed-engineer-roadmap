@@ -319,7 +319,7 @@ Now that we have learned everything from AI foundations to shipping a production
 
 FDE interviews usually test three things:
 
-- **Coding:** practical, real-world coding, often building or debugging a small feature end to end.
+- **Coding with AI Agents:** practical, real-world development using AI coding agents to build, debug, and ship a feature end to end.
 - **AI system design:** designing a RAG system, an agent, or a voice agent for a given customer problem, with trade-offs on quality, latency, cost, and security. Steps 5 to 13 and the [AI System Design](https://github.com/amitshekhariitbhu/ai-system-design) guide prepare us for this.
 - **Customer scenarios:** a vague business problem is given, and we must ask the right questions, define success, pick an approach, and explain it simply. Step 0 and Step 8 prepare us for this.
 
