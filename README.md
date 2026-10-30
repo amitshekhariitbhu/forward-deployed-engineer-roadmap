@@ -147,6 +147,7 @@ In this step, we will learn how an LLM works from the inside, how it generates t
 - [How Does the Transformer Architecture Work?](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - [What is Self Attention in Transformers?](https://outcomeschool.com/blog/self-attention-in-transformers)
 - [Evolution of LLM Architecture](https://outcomeschool.com/blog/evolution-of-llm-architecture)
+- [How do Greedy Decoding and Beam Search differ?](https://outcomeschool.com/blog/greedy-decoding-vs-beam-search)
 - [How does Temperature control LLM output?](https://outcomeschool.com/blog/how-does-temperature-control-llm-output)
 - [How do Top-k and Top-p Sampling work?](https://outcomeschool.com/blog/how-do-top-k-and-top-p-sampling-work)
 - [Stop Tokens in LLMs](https://outcomeschool.com/blog/stop-tokens-in-llms)
