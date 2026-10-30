@@ -197,6 +197,7 @@ If you want a quick introduction to RAG before starting, watch: [AI Engineering 
 - [How does an Inverted Index work?](https://outcomeschool.com/blog/inverted-index)
 - [How does Hybrid Search work?](https://outcomeschool.com/blog/how-does-hybrid-search-work)
 - [How does a Reranker work?](https://outcomeschool.com/blog/how-does-a-reranker-work)
+- [How does OCR with Deep Learning work?](https://outcomeschool.com/blog/optical-character-recognition-ocr)
 - [How to Chunk Documents for RAG? Chunking Strategies Explained](https://outcomeschool.com/blog/chunking-strategies-for-rag)
 - [How does Contextual Retrieval work?](https://outcomeschool.com/blog/how-does-contextual-retrieval-work)
 - [How does HyDE work in RAG?](https://outcomeschool.com/blog/how-does-hyde-work)
