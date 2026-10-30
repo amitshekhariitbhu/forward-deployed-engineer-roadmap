@@ -289,6 +289,7 @@ In this step, we will learn how to design a complete AI system end to end and wh
 
 Learn AI System Design step by step: [AI System Design](https://github.com/amitshekhariitbhu/ai-system-design)
 
+- [How does Model Serving work?](https://outcomeschool.com/blog/model-serving)
 - [How does a GPU work for Deep Learning?](https://outcomeschool.com/blog/how-does-a-gpu-work-for-deep-learning)
 - [How do CUDA Kernels work?](https://outcomeschool.com/blog/how-do-cuda-kernels-work)
 - [How does a Google TPU work?](https://outcomeschool.com/blog/how-does-a-google-tpu-work)
