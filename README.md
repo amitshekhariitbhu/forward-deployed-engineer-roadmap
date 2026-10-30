@@ -347,6 +347,7 @@ In this step, we will see everything come together in one of the most requested 
 - [How does function calling work in a voice AI agent?](https://outcomeschool.com/blog/function-calling-in-voice-agents)
 - [How does a voice agent handle structured inputs like dates, numbers, and addresses?](https://outcomeschool.com/blog/structured-inputs-in-voice-agents)
 - [How does a voice agent confirm and correct misheard information?](https://outcomeschool.com/blog/confirm-and-correct-in-voice-agents)
+- [How does a voice agent manage conversation state across a long call?](https://outcomeschool.com/blog/conversation-state-in-voice-agents)
 - [How does a voice AI agent answer a phone call?](https://outcomeschool.com/blog/phone-calls-in-voice-agents)
 - [How do SIP and RTP carry a phone call to a voice agent?](https://outcomeschool.com/blog/sip-and-rtp)
 - [How does DTMF keypad input work in a voice agent?](https://outcomeschool.com/blog/dtmf-in-voice-agents)
