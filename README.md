@@ -264,6 +264,7 @@ In this step, we will learn how to make LLMs faster and cheaper to run. A demo t
 - [LLM Inference Optimization](https://www.youtube.com/watch?v=jV2sCj4lHYk) (Video)
 - [Prefill vs Decode: LLM Inference Optimization](https://outcomeschool.com/blog/prefill-vs-decode-llm-inference-optimization)
 - [The First-Token Latency Problem in LLMs](https://www.youtube.com/watch?v=XD8DD4cEHu0) (Video)
+- [How does an LLM use GPU memory?](https://outcomeschool.com/blog/llm-gpu-memory)
 - [What is KV Cache in LLMs?](https://outcomeschool.com/blog/kv-cache-in-llms)
 - [What is Paged Attention in LLMs?](https://outcomeschool.com/blog/paged-attention-in-llms)
 - [What is Continuous Batching in LLMs?](https://outcomeschool.com/blog/continuous-batching-in-llms)
