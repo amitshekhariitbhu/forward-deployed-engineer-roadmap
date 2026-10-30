@@ -118,6 +118,7 @@ In this step, we will learn the Machine Learning basics that every FDE must know
 - [What is One-hot Encoding in Machine Learning?](https://outcomeschool.com/blog/one-hot-encoding)
 - [One-hot Encoding in Machine Learning](https://www.youtube.com/watch?v=6AmedU5i9go) (Video)
 - [Why do we split data into train, validation, and test sets?](https://outcomeschool.com/blog/train-validation-test-split)
+- [What are Epoch, Batch, Batch Size, and Iteration in Machine Learning?](https://outcomeschool.com/blog/epoch-batch-and-iteration)
 - [Epoch, Batch, Batch Size, Iteration](https://www.youtube.com/watch?v=NFLlXE-6vno) (Video)
 - [Precision vs Recall](https://outcomeschool.com/blog/precision-vs-recall)
 - [What is a Neural Network and How Does It Work?](https://outcomeschool.com/blog/neural-network)
