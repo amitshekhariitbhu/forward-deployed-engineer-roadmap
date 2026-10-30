@@ -366,6 +366,7 @@ In this step, we will see everything come together in one of the most requested 
 - [How does an outbound calling voice agent work?](https://outcomeschool.com/blog/outbound-calling-voice-agent)
 - [How does a voice agent transfer a call to a human with context?](https://outcomeschool.com/blog/call-transfer-with-context)
 - [How do you evaluate a voice AI agent?](https://outcomeschool.com/blog/voice-agent-evaluation)
+- [How do simulated callers test a voice agent automatically?](https://outcomeschool.com/blog/simulated-caller-testing)
 
 ### Step 14: Prepare for Forward Deployed Engineer Interviews
 
