@@ -115,6 +115,7 @@ In this step, we will learn the Machine Learning basics that every FDE must know
 - [Supervised vs Unsupervised Learning](https://outcomeschool.com/blog/supervised-vs-unsupervised-learning)
 - [What is Feature Engineering in Machine Learning?](https://outcomeschool.com/blog/feature-engineering)
 - [Feature Engineering in Machine Learning](https://www.youtube.com/watch?v=QLlywrWuXag) (Video)
+- [What is One-hot Encoding in Machine Learning?](https://outcomeschool.com/blog/one-hot-encoding)
 - [One-hot Encoding in Machine Learning](https://www.youtube.com/watch?v=6AmedU5i9go) (Video)
 - [Why do we split data into train, validation, and test sets?](https://outcomeschool.com/blog/train-validation-test-split)
 - [Epoch, Batch, Batch Size, Iteration](https://www.youtube.com/watch?v=NFLlXE-6vno) (Video)
